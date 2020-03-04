@@ -32,7 +32,7 @@ footer {
 	padding-left: 0;
 }
 
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 10810px){
 	*{color: green;}
 }
 @media only screen and (min-width: 720px){
